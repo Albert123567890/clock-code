@@ -1,0 +1,5 @@
+>>>secs=3929
+>>>inputmins=secs//60
+>>>hours=inputmins//60
+>>>mins=inputmins%60
+>>>print(hours, 'hours', mins, 'minutes')
